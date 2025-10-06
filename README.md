@@ -27,7 +27,7 @@ It’s designed for command auditing, session tracking, and reproducibility in a
 
  3. Operator Linux
     ```
-    nc -lvnp 800 > MyCustomLog.txt
+    nc -lvnp 8080 > MyCustomLog.txt
     ```
 
 <p>------------------------------------------------------------------------------------------------------------------</p>
