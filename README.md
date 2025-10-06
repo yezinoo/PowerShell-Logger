@@ -1,4 +1,3 @@
-
 🧰 PowerShell Logger
 
 PowerShell Logger is a lightweight, script-based PowerShell terminal that records every command and its output — including user session info — to a timestamped log file.
