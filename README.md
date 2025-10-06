@@ -4,7 +4,7 @@
 PowerShell Logger is a lightweight, script-based PowerShell terminal that records every command and its output — including user session info — to a timestamped log file.
 It’s designed for command auditing, session tracking, and reproducibility in administrative or cybersecurity workflows.
 
-<p>-----------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------</p>
 
 Usage:
 
@@ -31,7 +31,7 @@ Usage:
     nc -lvnp 800 > MyCustomLog.txt
     ```
 
-<p>----------------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------</p>
 
 📁 Log File Example
 
