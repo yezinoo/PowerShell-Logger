@@ -15,7 +15,7 @@ It’s designed for command auditing, session tracking, and reproducibility in a
 
  3. Upload mode
     ```
-    powershell -ExecutionPolicy Bypass -File .\Logger.ps1 -Upload -Url "http://10.10.101:8080" -File "C:\Logs\MyCustomLog.txt"
+    powershell -ExecutionPolicy Bypass -File .\Logger.ps1 -Upload -Url "http://10.10.10.1:8080" -File "C:\Logs\MyCustomLog.txt"
     ```
 
  File Upload Sample
