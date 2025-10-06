@@ -6,7 +6,7 @@ It’s designed for command auditing, session tracking, and reproducibility in a
 
 <p>------------------------------------------------------------------------------------------------------------------</p>
 
-Usage:
+🧩Usage:
 
  1. Normal logging mode (with optional custom file)
     ```
